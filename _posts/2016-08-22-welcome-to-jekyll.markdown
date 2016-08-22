@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to okclimber.com
 date: '2016-08-22 10:34:15 -0500'
-categories: jekyll update
+categories: null
 published: true
 ---
 ## Welcome
